@@ -15,5 +15,4 @@ Dies ist eine Einkaufsliste
 
 
 # Ich mag das:
-
-![Alt-Text](/home/david/Dropbox/HFU/OSS/Praktikum/Praktikum 4/archLogo.jpg)
+![Alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Archlogo.png/480px-Archlogo.png "I use Arch btw")
