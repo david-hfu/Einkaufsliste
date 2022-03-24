@@ -12,3 +12,8 @@ Dies ist eine Einkaufsliste
 - nicht
 
 *Weiteres als Info
+
+
+# Ich mag das:
+
+![Alt-Text](/home/david/Dropbox/HFU/OSS/Praktikum/Praktikum 4.jpg)
