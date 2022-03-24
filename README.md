@@ -15,4 +15,4 @@ Dies ist eine Einkaufsliste
 
 
 # Ich mag das:
-![Alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Archlogo.png/480px-Archlogo.png "I use Arch btw")
+![Alt text](/Archlogo.png "I use Arch btw")
